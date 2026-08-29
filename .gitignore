@@ -22,3 +22,6 @@ TODOs.md
 
 # base fixture builds
 __tests__/base/fixture/.vitepress/dist-*
+
+docs/.vitepress/dist
+docs/.vitepress/cache
