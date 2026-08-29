@@ -2,8 +2,8 @@
 title: 测试
 layout: doc
 outline: [1,6]
-# navbar: false
-# sidebar: false
+navbar: false
+sidebar: false
 editLink: false
 ---
 
