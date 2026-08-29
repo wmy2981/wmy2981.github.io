@@ -5,13 +5,5 @@ layout: home
 hero:
   name: "Wmy Public Pages"
   text: "A VitePress Site"
-  tagline: ./
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 ---
 

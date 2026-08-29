@@ -2,10 +2,10 @@
 title: 测试
 date: 2026-08-29
 layout: doc
-navbar: false
-sidebar: false
-editLink: false
-footer: false
+# navbar: false
+# sidebar: false
+# editLink: false
+# footer: false
 ---
 
 # 测试
